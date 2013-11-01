@@ -3,7 +3,7 @@
   "description": "Rosie is a factory for building JavaScript objects, mostly useful for setting up test data.",
   "homepage": "https://github.com/fourseven/meteor-rosie",
   "author": "Mathew Hartley  (https://twitter.com/four_seven)",
-  "version": "0.2.0.1",
+  "version": "0.2.0.2",
   "git": "https://github.com/fourseven/meteor-rosie.git",
   "packages": {}
 }
